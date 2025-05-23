@@ -201,4 +201,4 @@ Overcoming these challenges required focused effort, efficient problem-solving, 
 
 A screen recording demonstrating all features of the BlogSpot Blogging Platform will be attached here.
 
-[Google Drive Public Link to Demo Video]
+[[Google Drive Public Link to Demo Video]](https://drive.google.com/file/d/1BA-lZw63A3D8Rr-EUn1Cfl_TsflVZiEI/view?usp=drive_link)
